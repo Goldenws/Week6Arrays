@@ -1,0 +1,13 @@
+C:\Users\Roland Strod\source\repos\Week6Arrays\userAgainstZombies\bin\Debug\netcoreapp3.1\userAgainstZombies.exe
+C:\Users\Roland Strod\source\repos\Week6Arrays\userAgainstZombies\bin\Debug\netcoreapp3.1\userAgainstZombies.deps.json
+C:\Users\Roland Strod\source\repos\Week6Arrays\userAgainstZombies\bin\Debug\netcoreapp3.1\userAgainstZombies.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\Week6Arrays\userAgainstZombies\bin\Debug\netcoreapp3.1\userAgainstZombies.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\Week6Arrays\userAgainstZombies\bin\Debug\netcoreapp3.1\userAgainstZombies.dll
+C:\Users\Roland Strod\source\repos\Week6Arrays\userAgainstZombies\bin\Debug\netcoreapp3.1\userAgainstZombies.pdb
+C:\Users\Roland Strod\source\repos\Week6Arrays\userAgainstZombies\obj\Debug\netcoreapp3.1\userAgainstZombies.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\Week6Arrays\userAgainstZombies\obj\Debug\netcoreapp3.1\userAgainstZombies.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\Week6Arrays\userAgainstZombies\obj\Debug\netcoreapp3.1\userAgainstZombies.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\Week6Arrays\userAgainstZombies\obj\Debug\netcoreapp3.1\userAgainstZombies.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\Week6Arrays\userAgainstZombies\obj\Debug\netcoreapp3.1\userAgainstZombies.dll
+C:\Users\Roland Strod\source\repos\Week6Arrays\userAgainstZombies\obj\Debug\netcoreapp3.1\userAgainstZombies.pdb
+C:\Users\Roland Strod\source\repos\Week6Arrays\userAgainstZombies\obj\Debug\netcoreapp3.1\userAgainstZombies.genruntimeconfig.cache

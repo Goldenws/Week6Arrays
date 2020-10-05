@@ -1,0 +1,13 @@
+C:\Users\Roland Strod\source\repos\Week6Arrays\Week6Arrays\bin\Debug\netcoreapp3.1\Week6Arrays.exe
+C:\Users\Roland Strod\source\repos\Week6Arrays\Week6Arrays\bin\Debug\netcoreapp3.1\Week6Arrays.deps.json
+C:\Users\Roland Strod\source\repos\Week6Arrays\Week6Arrays\bin\Debug\netcoreapp3.1\Week6Arrays.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\Week6Arrays\Week6Arrays\bin\Debug\netcoreapp3.1\Week6Arrays.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\Week6Arrays\Week6Arrays\bin\Debug\netcoreapp3.1\Week6Arrays.dll
+C:\Users\Roland Strod\source\repos\Week6Arrays\Week6Arrays\bin\Debug\netcoreapp3.1\Week6Arrays.pdb
+C:\Users\Roland Strod\source\repos\Week6Arrays\Week6Arrays\obj\Debug\netcoreapp3.1\Week6Arrays.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\Week6Arrays\Week6Arrays\obj\Debug\netcoreapp3.1\Week6Arrays.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\Week6Arrays\Week6Arrays\obj\Debug\netcoreapp3.1\Week6Arrays.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\Week6Arrays\Week6Arrays\obj\Debug\netcoreapp3.1\Week6Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\Week6Arrays\Week6Arrays\obj\Debug\netcoreapp3.1\Week6Arrays.dll
+C:\Users\Roland Strod\source\repos\Week6Arrays\Week6Arrays\obj\Debug\netcoreapp3.1\Week6Arrays.pdb
+C:\Users\Roland Strod\source\repos\Week6Arrays\Week6Arrays\obj\Debug\netcoreapp3.1\Week6Arrays.genruntimeconfig.cache
